@@ -1,5 +1,5 @@
 this text was made to learn abt github
 
-i made new commit
+i just delete  2 line
 
-just want to try things
+and add new one
