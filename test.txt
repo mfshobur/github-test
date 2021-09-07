@@ -1,1 +1,3 @@
 this text was made to learn abt github
+
+i made new commit
