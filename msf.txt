@@ -5,6 +5,7 @@ php
 framework bootstrap
 python
 cs
-api
-database
+database 
+react
+angular
 java
